@@ -1,3 +1,10 @@
+## Highlights
+
+- Identified 4 systematic failure modes in LLM triage reasoning
+- Built a quantitative scoring framework for evaluating uncertainty and risk behavior
+- Conducted adversarial framing stress tests to evaluate robustness
+- Analyzed model behavior under ambiguity and incomplete information
+
 # Failure Modes in AI-Assisted Triage Decision-Making
 
 ## Overview

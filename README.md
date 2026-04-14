@@ -1,5 +1,7 @@
 ## Highlights
 
+This project evaluates LLM behavior in high-stakes triage scenarios.
+
 - Identified 4 systematic failure modes in LLM triage reasoning
 - Built a quantitative scoring framework for evaluating uncertainty and risk behavior
 - Conducted adversarial framing stress tests to evaluate robustness
